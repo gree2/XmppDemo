@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XmppDemo</string>
+
+    <string name="send_test_message">Send test message</string>
+    <string name="receive_test_message">Message received.</string>
+    <string name="action_settings">Settings</string>
+</resources>
